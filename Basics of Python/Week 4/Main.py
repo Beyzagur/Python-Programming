@@ -36,6 +36,5 @@ def main():
     for length in find_len(names):
         print(length)
 
-
 if __name__ == '__main__':
     main()
